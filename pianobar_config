@@ -1,0 +1,42 @@
+#control_proxy = http://11660059181296308239@p.globalpandora.com:443
+
+# This is an example configuration file for pianobar. You may remove the # from
+# lines you need and copy/move this file to ~/.config/pianobar/config
+# See manpage for a description of the config keys
+#
+# User
+
+# last.fm scrobbling
+#lastfm_user = username
+#lastfm_password = password
+#lastfm_scrobble_percent = 50
+
+# Proxy (for those who are not living in the USA)
+control_proxy = http://127.0.0.1:8118
+
+# Keybindings
+act_help = ?
+act_songlove = +
+act_songban = -
+act_stationaddmusic = a
+act_stationcreate = c
+act_stationdelete = d
+act_songexplain = e
+act_stationaddbygenre = g
+act_songinfo = i
+act_addshared = j
+act_songmove = m
+act_songnext = n
+act_songpause = p
+act_quit = q
+act_stationrename = r
+act_stationchange = s
+act_songtired = t
+act_upcoming = u
+act_stationselectquickmix = x
+
+#Misc
+mp3 or aacplus
+audio_format = mp3
+autostart_station = 123456
+#event_command = /home/user/.config/pianobar/eventcmd
