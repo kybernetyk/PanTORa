@@ -35,8 +35,14 @@ act_songtired = t
 act_upcoming = u
 act_stationselectquickmix = x
 
-#Misc
-mp3 or aacplus
+act_volup = . 
+act_voldown = , 
+
+# Misc
+# mp3 or aacplus
 audio_format = mp3
 autostart_station = 123456
 #event_command = /home/user/.config/pianobar/eventcmd
+
+user = jszpilewski@me.com
+password = warbird
