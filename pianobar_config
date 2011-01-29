@@ -44,5 +44,3 @@ audio_format = mp3
 autostart_station = 123456
 #event_command = /home/user/.config/pianobar/eventcmd
 
-user = jszpilewski@me.com
-password = warbird
