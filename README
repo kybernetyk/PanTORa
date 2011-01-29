@@ -1,0 +1,14 @@
+Listen to Pandora from outside the US. Thank's to TOR :]
+
+How to:
+
+1. install tor
+2. cp torrc into your home to .torrc
+3. set up your browser to use tor.pac as the automatic proxy configuration file. you might have to upload it to a server - depending on how stupid your browser is. you can use my file though: http://nntp.pl/tor.pac
+4. start tor
+5. open www.pandora.com
+
+
+If it doesn't work the first time you probably will have to weed out blocked tor nodes in the .torrc file.
+
+KTHX!
